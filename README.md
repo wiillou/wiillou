@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![wiilou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiillou)](https://github.com/wiillou)
+[![wiilou's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiillou&layout=compact&theme=vision-friendly-dark)](https://github.com/wiillou)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiillou&layout=compact&theme=vision-friendly-dark)](https://github.com/wiillou)
 
 <!--
 **wiillou/wiillou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
